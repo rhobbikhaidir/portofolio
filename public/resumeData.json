@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name": "Rhobbi Khaidir",
+    "description": "Front-end Developers",
+    "image": "https://lh3.googleusercontent.com/pw/ACtC-3dWnQ4wFj6lgrUxvrdiZJIIH0UyP4VtuFlsWs-glTSi36NrFiAEl9T_Zp_frYx6nhpda4R0dqGc2f2YG66ej8WgulD3X-fAzTdUlr6cGAZ63ZAnG7dHLoayTUx2fInQ8Hj3JuJZGfv6LbmbY231cfxP=s669-no",
+    "bio": "Front-end Developers",
+    "contactmessage": "Contact Us.",
+    "email": "rhobbie09@gmail.com",
+    "phone": "+62 882 1208 6292",
+    "github": "https://github.com/rhobbikhaidir",
+    "project": "https://web.facebook.com/rhobbikhaidir",
+    "certificate": "https://drive.google.com/file/d/1vlU1iRxh13XWLx6dTL5SSVQfiV0IR_LW/view?usp=sharing",
+    "address": {
+      "street": "Jl. Perjuangan",
+      "city": "Jakarta Utara",
+      "state": "DKI Jakarta",
+      "zip": "14260"
+    },
+    "website": "https://github.com/rhobbikhaidir",
+    "resumedownload": "https://drive.google.com/file/d/1ad7CNyF3Mc54mm4u_UF3rtlq-ju8VDAl/view?usp=sharing",
+
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/rhobbikhaidir",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/iZetta49443149",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rhobbikhaidir/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rhobbikhaidir",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Coding  Tools",
+    "education": [
+      {
+        "school": "Progate & DTS",
+        "degree": "Mentor Coding Experience Bootcamp",
+        "graduated": "October 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Udemy",
+        "degree": "React js & React Native: The Complete Bootcamp",
+        "graduated": "July 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Dicoding",
+        "degree": "Fundamental Front-End Web Development",
+        "graduated": "June 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Progate",
+        "degree": "Front-End Web Development Javascripts & React js",
+        "graduated": "April 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Dicoding",
+        "degree": "SOLID Programming Principles",
+        "graduated": "April 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "DBS Service",
+        "title": "Computer Technician",
+        "years": "January 2018 - March 2019",
+        "description": "Maintenance and repair computer pc or laptop."
+      },
+      {
+        "company": "Progate",
+        "title": "Instructor Coding",
+        "years": "6 month",
+        "description": "Answer question from participants, Review Source code from participants, Help Resolve errors/bugs"
+      },
+      {
+        "company": "TOG",
+        "title": "Front-end Developer",
+        "years": "2 month",
+        "description": "Complete the given task, Slicing, Styling, fixing bugs"
+      },
+      {
+        "company": "Litedex Digital Indonesia",
+        "title": "Front-end Developer",
+        "years": "1 month",
+        "description": "Complete the given task, Slicing, Minify Styling using tailwindcss, WEB3"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML & CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name": "React js",
+        "level": "90%"
+      },
+      {
+        "name": "Express JS",
+        "level": "80%"
+      },
+      {
+        "name": "Linux",
+        "level": "84%"
+      }
+    ]
+  },"portfolio": {
+    "projects": [
+      {
+        "title": "portfolio",
+        "category": "currently still in the production stage",
+        "image": "portofolio.jpg",
+        "url": "https://reman.netlify.app/details"
+      },
+      {
+        "title": "a community website called Reman",
+        "category": "currently still in the production stage",
+        "image": "reman.png",
+        "url": "https://reman.netlify.app/details"
+      },
+      {
+        "title": "Beautiful Booking App",
+        "category": "A full website develope by UI/UX",
+        "image": "staycation.png",
+        "url": "https://staycation09.herokuapp.com/"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "reman.png",
+        "url": "https://github.com/rhobbikhaidir/react-portofolio"
+      },
+      {
+        "title": "Natours Travel Webiste",
+        "category": "a website about travel and natural beauty",
+        "image": "natours.png",
+        "url": "https://natours09.netlify.app/"
+      }
+    ]
+  }
+}
