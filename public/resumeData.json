@@ -131,8 +131,8 @@
   },"portfolio": {
     "projects": [
       {
-        "title": "portfolio",
-        "category": "currently still in the production stage",
+        "title": "Resume Website",
+        "category": "A React based resume website template",
         "image": "portofolio.jpg",
         "url": "https://github.com/rhobbikhaidir/portofolio"
       },
@@ -147,12 +147,6 @@
         "category": "A full website develope by UI/UX",
         "image": "staycation.png",
         "url": "https://staycation09.herokuapp.com/"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "reman.png",
-        "url": "https://reman.netlify.app/details"
       },
       {
         "title": "Natours Travel Webiste",
