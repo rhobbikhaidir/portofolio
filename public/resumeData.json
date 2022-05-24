@@ -134,7 +134,7 @@
         "title": "portfolio",
         "category": "currently still in the production stage",
         "image": "portofolio.jpg",
-        "url": "https://reman.netlify.app/details"
+        "url": "https://github.com/rhobbikhaidir/portofolio"
       },
       {
         "title": "a community website called Reman",
@@ -152,7 +152,7 @@
         "title": "Resume Website",
         "category": "A React based resume website template",
         "image": "reman.png",
-        "url": "https://github.com/rhobbikhaidir/react-portofolio"
+        "url": "https://reman.netlify.app/details"
       },
       {
         "title": "Natours Travel Webiste",
