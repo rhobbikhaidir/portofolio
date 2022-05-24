@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import profile from "./images/profile12.png";
+
 class About extends Component {
   render() {
     if (this.props.data) {
@@ -19,7 +21,7 @@ class About extends Component {
       <section id="about">
         <div className="row">
           <div className="three columns">
-            <img className="profile-pic" src={profilepic} alt="profile-pic" />
+            <img className="profile-pic" src={profile} alt="profile-pic" />
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
