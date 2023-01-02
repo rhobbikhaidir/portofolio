@@ -8,7 +8,7 @@
     "email": "rhobbie09@gmail.com",
     "phone": "+62 882 1208 6292",
     "github": "https://github.com/rhobbikhaidir",
-    "project": "https://web.facebook.com/rhobbikhaidir",
+    "project": "https://www.linkedin.com/in/rhobbi-khaidir-417b6b1b8/",
     "certificate": "https://drive.google.com/file/d/1vlU1iRxh13XWLx6dTL5SSVQfiV0IR_LW/view?usp=sharing",
     "address": {
       "street": "Jl. Perjuangan",
@@ -17,13 +17,13 @@
       "zip": "14260"
     },
     "website": "https://github.com/rhobbikhaidir",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1igF8Mew2HEcv9nUM4R5f8eFwQuovS7lz",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1ny6naEwwk6DHshNg3gV5GQhkKQ2HRPl9",
 
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/rhobbikhaidir",
-        "className": "fa fa-facebook"
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/rhobbi-khaidir-417b6b1b8/",
+        "className": "fa fa-linkedin"
       },
       {
         "name": "twitter",
@@ -85,28 +85,30 @@
     ],
     "work": [
       {
-        "company": "DBS Service",
-        "title": "Computer Technician",
-        "years": "January 2018 - March 2019",
-        "description": "Maintenance and repair computer pc or laptop."
-      },
-      {
-        "company": "Progate",
-        "title": "Instructor Coding",
-        "years": "6 month",
-        "description": "HTML & CSS, Javascript, Git & Github, ExpressJS, Mysql, Answer question from participants, Review Source code from participants, Help Resolve errors/bugs"
+        "company": "Pelindo Solusi Digital",
+        "title": "Front-end Developer",
+        "years": "June 2022 - Present ",
+        "description": "Working on project Indonesia National Single Window(INSW) Gen 2.2 and 2.3 insw.go.id as Frontend Developer. Using React as framework, Bootstrap and Redux as state management."
       },
       {
         "company": "TOG",
         "title": "Front-end Developer",
-        "years": "2 month",
-        "description": "React JS, Material UI, Trello, Complete the given task, Slicing, Styling, fixing bugs,"
+        "years": "September 2021 -January 2022",
+        "description": "Create an airplane ticket booking webapp using ReactJs, Bootstrap, Bootstrap Table, MUI, Trello, and Redux as state management"
       },
+  
       {
-        "company": "Litedex Digital Indonesia",
-        "title": "Front-end Developer",
-        "years": "2 month",
-        "description": "React JS,tailwindcss, WEB3, Complete the given task, Slicing, Minify Styling using "
+        "company": "Progate",
+        "title": "Instructor Coding",
+        "years": "May 2021 - December 2021",
+        "description": "Working on events digitalents (KOMINFO), independent campus (KEMENDIKBUD), teaching fundamental programming to participants, Html&Css, Javascript, ReactJs ExpressJs, MySQL"
+      },
+ 
+        {
+        "company": "DBS Service",
+        "title": "Computer Technician",
+        "years": "January 2018 - March 2019",
+        "description": "Maintenance and repair computer pc or laptop."
       }
     ],
     "skills": [
