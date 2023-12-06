@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Rhobbi Khaidir",
-    "description": "Front-end Developers",
+    "description": "Front-end Engineer",
     "image": "https://lh3.googleusercontent.com/pw/ACtC-3dWnQ4wFj6lgrUxvrdiZJIIH0UyP4VtuFlsWs-glTSi36NrFiAEl9T_Zp_frYx6nhpda4R0dqGc2f2YG66ej8WgulD3X-fAzTdUlr6cGAZ63ZAnG7dHLoayTUx2fInQ8Hj3JuJZGfv6LbmbY231cfxP=s669-no",
-    "bio": "Front-end Developers",
+    "bio": "Front-end Engineer",
     "contactmessage": "Contact Us.",
     "email": "rhobbie09@gmail.com",
     "phone": "+62 882 1208 6292",
@@ -17,7 +17,7 @@
       "zip": "14260"
     },
     "website": "https://github.com/rhobbikhaidir",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=15Q_boIpGpF9_TXW02YvW4KnPevisMVSD",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1ofLp3Ao_D3nV9okuLThuXi9mMLvRmi-N ",
 
     "social": [
       {
@@ -85,9 +85,21 @@
     ],
     "work": [
       {
+        "company": "OneCode Solution",
+        "title": "Front-end Engineer",
+        "years": "January 2023 - January 2023",
+        "description": "Working on project Myhundai 2.0 and webadmin as Frontend Engineer. Using ReactJS, React-Native, Mui and Redux as state management."
+      },
+      {
+        "company": "Feedloop",
+        "title": "Front-end Engineer",
+        "years": "January 2023 - January 2023",
+        "description": "Working on project ParagonCrop Digital Pull Production System(DPPS) phase 1 and Phase 2 as Frontend Engineer. Using ReactJS, ChakraUI, SASS and Redux as state management."
+      },
+      {
         "company": "Pelindo Solusi Digital",
         "title": "Front-end Developer",
-        "years": "June 2022 - Present ",
+        "years": "January 2022 - Februay 2023",
         "description": "Working on project Indonesia National Single Window(INSW) Gen 2.2 and 2.3 insw.go.id as Frontend Developer. Using React as framework, Bootstrap and Redux as state management."
       },
       {
@@ -118,19 +130,23 @@
       },
       {
         "name": "Javascript",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "React Native",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "React js",
-        "level": "90%"
+        "level": "100%"
       },
       {
         "name": "Express JS",
         "level": "80%"
+      },
+      {
+        "name": "Typescript",
+        "level": "100%"
       },
       {
         "name": "Linux",
