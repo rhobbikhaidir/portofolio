@@ -125,10 +125,6 @@
     ],
     "skills": [
       {
-        "name": "HTML & CSS",
-        "level": "100%"
-      },
-      {
         "name": "Javascript",
         "level": "100%"
       },
@@ -141,16 +137,8 @@
         "level": "100%"
       },
       {
-        "name": "Express JS",
-        "level": "80%"
-      },
-      {
         "name": "Typescript",
         "level": "100%"
-      },
-      {
-        "name": "Linux",
-        "level": "84%"
       }
     ]
   },"portfolio": {
