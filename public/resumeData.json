@@ -17,7 +17,7 @@
       "zip": "14260"
     },
     "website": "https://github.com/rhobbikhaidir",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1xrBDz3GXKueaKm0GNIGigEnazet5qlSE",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1KL3_UsbbZmIML7LqMbo3QzSiXJJ4_4_O",
 
     "social": [
       {
@@ -85,6 +85,12 @@
     ],
     "work": [
       {
+        "company": "Infosys Solusi Terpadu",
+        "title": "Front-end Developer",
+        "years": "March 2024 - Present",
+        "description": "Working on project Sarana Multi Infrastruktur(SMI) as Frontend Developer. Using NextJS, Mui and Redux as state management."
+      },
+      {
         "company": "NTT",
         "title": "Front-end Engineer",
         "years": "January 2023 - January 2024",
@@ -93,7 +99,7 @@
       {
         "company": "ParagonCorp",
         "title": "Front-end Engineer",
-        "years": "January 2023 - January 2024",
+        "years": "January 2023 - April 2024",
         "description": "Working on project ParagonCrop Digital Pull Production System(DPPS) phase 1 and Phase 2 as Frontend Engineer. Using ReactJS, ChakraUI, SASS and Redux as state management."
       },
       {
@@ -139,6 +145,10 @@
       {
         "name": "Typescript",
         "level": "100%"
+      },
+      {
+        "name": "Next js",
+        "level": "90%"
       }
     ]
   },"portfolio": {
