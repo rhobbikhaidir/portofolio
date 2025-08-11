@@ -17,7 +17,7 @@
       "zip": "14260"
     },
     "website": "https://github.com/rhobbikhaidir",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1_l5q6uIShee9n8YZUH2JG6UvJYGf3Jn0",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=19HIcfLqlpPJ0ZvAQbIpN2LggO83NlWAg",
 
     "social": [
       {
@@ -149,7 +149,15 @@
       {
         "name": "Next js",
         "level": "90%"
-      }
+      },
+      {
+        "name": "Angular js",
+        "level": "90%"
+      },
+      {
+        "name": "Flutter",
+        "level": "90%"
+      },
     ]
   },"portfolio": {
     "projects": [
