@@ -184,6 +184,12 @@
         "category": "a website about travel and natural beauty",
         "image": "natours.png",
         "url": "https://natours09.netlify.app/"
+      },
+      {
+        "title": "BBHQ",
+        "category": "Berantas Buta Huruf Quran",
+        "image": "natours.png",
+        "url": "https://berantasbutahurufquran.vercel.app/"
       }
     ]
   }
