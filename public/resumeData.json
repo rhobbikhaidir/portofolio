@@ -17,7 +17,7 @@
       "zip": "14260"
     },
     "website": "https://github.com/rhobbikhaidir",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1-oAn_aFbdu40BGDI0DTFakSUqRjbu7ds",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1iIcAhpi1aSBO2xMqLqOP3GmzUGZ0TIZW",
 
     "social": [
       {
@@ -57,7 +57,7 @@
         "graduated": "July 2021",
         "description": "Reac Native CLI, Jsx, hooks, API, Redux"
       },
-   
+
       {
         "school": "Dicoding",
         "degree": "Fundamental Front-End Web Development",
@@ -85,48 +85,52 @@
     ],
     "work": [
       {
+        "company": "PT. BNI Sekuritas",
+        "title": "Front-end Developer",
+        "years": "September 2025 - Present",
+        "description": "Architected and maintained React.js Micro Frontend modules to ensure independent deployment capabilities and seamless integration within the core BNI Sekuritas ecosystem, improving development scalability and team autonomy."
+      },
+      {
         "company": "Infosys Solusi Terpadu",
         "title": "Front-end Developer",
-        "years": "March 2024 - Present",
-        "description": "Working on project Sarana Multi Infrastruktur(SMI) as Frontend Developer. Using NextJS, Mui and Redux as state management."
+        "years": "March 2024 - August 2025",
+        "description": "Developed the Sarana Multi Infrastruktur (SMI) platform using Next.js. Implemented enterprise-grade UI components with Material UI (MUI) and optimized global state management using Redux to handle complex financial data flows."
       },
       {
         "company": "NTT",
         "title": "Front-end Engineer",
         "years": "January 2023 - January 2024",
-        "description": "Working on project Myhundai 2.0 and webadmin as Frontend Engineer. Using ReactJS, React-Native, Mui and Redux as state management."
+        "description": "Engineered the MyHyundai 2.0 platform and its administrative dashboard. Built cross-platform solutions using React.js and React Native, leveraging MUI and Redux to maintain design consistency and robust state synchronization."
       },
       {
         "company": "ParagonCorp",
         "title": "Front-end Engineer",
         "years": "January 2023 - April 2024",
-        "description": "Working on project ParagonCrop Digital Pull Production System(DPPS) phase 1 and Phase 2 as Frontend Engineer. Using ReactJS, ChakraUI, SASS and Redux as state management."
+        "description": "Led the frontend development for the Digital Pull Production System (DPPS) Phase 1 & 2. Utilized React.js, ChakraUI, and SASS to build a highly responsive industrial dashboard, managed with Redux for real-time production tracking."
       },
       {
         "company": "Pelindo Solusi Digital",
         "title": "Front-end Developer",
-        "years": "January 2022 - Februay 2023",
-        "description": "Working on project Indonesia National Single Window(INSW) Gen 2.2 and 2.3 insw.go.id as Frontend Developer. Using React as framework, Bootstrap and Redux as state management."
+        "years": "January 2022 - February 2023",
+        "description": "Contributed to the Indonesia National Single Window (INSW) Gen 2.2 & 2.3 (insw.go.id). Built large-scale government logistics modules using React.js, Bootstrap, and Redux to facilitate seamless national trade data integration."
       },
       {
         "company": "TOG",
         "title": "Front-end Developer",
-        "years": "September 2021 -January 2022",
-        "description": "Create an airplane ticket booking webapp using ReactJs, Bootstrap, Bootstrap Table, MUI, Trello, and Redux as state management"
+        "years": "September 2021 - January 2022",
+        "description": "Developed a full-featured airplane ticket booking web application. Implemented dynamic data tables and interactive UI using React.js, MUI, and Bootstrap, while managing complex booking states with Redux."
       },
-  
       {
         "company": "Progate",
-        "title": "Instructor Coding",
+        "title": "Coding Instructor",
         "years": "May 2021 - December 2021",
-        "description": "Working on events digitalents (KOMINFO), independent campus (KEMENDIKBUD), teaching fundamental programming to participants, Html&Css, Javascript, ReactJs ExpressJs, MySQL"
+        "description": "Mentored participants in national programs (KOMINFO Digitalent & KEMENDIKBUD Kampus Merdeka). Delivered comprehensive training on Full-stack fundamentals, including HTML/CSS, JavaScript, React.js, Express.js, and MySQL."
       },
- 
-        {
+      {
         "company": "DBS Service",
         "title": "Computer Technician",
         "years": "January 2018 - March 2019",
-        "description": "Maintenance and repair computer pc or laptop."
+        "description": "Executed hardware maintenance and complex repairs for PCs and laptops, ensuring high system uptime and hardware reliability for clients."
       }
     ],
     "skills": [
@@ -159,7 +163,8 @@
         "level": "90%"
       }
     ]
-  },"portfolio": {
+  },
+  "portfolio": {
     "projects": [
       {
         "title": "Resume Website",
@@ -188,7 +193,7 @@
       {
         "title": "BBHQ",
         "category": "Berantas Buta Huruf Quran",
-        "image": "bbhq.png",
+        "image": "natours.png",
         "url": "https://berantasbutahurufquran.vercel.app/"
       }
     ]
